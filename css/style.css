@@ -1,2 +1,7 @@
 h1{color: black; text-align: left; font-style: italic; font-size: 30px}
-h2{color:black; text-align: left; font-style: italic; font-size: 30px}
+html {background:url("../images/tech.jpg") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size:cover;
+background-size: cover;
+color: blue;}

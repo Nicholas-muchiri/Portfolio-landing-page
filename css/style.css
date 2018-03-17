@@ -5,3 +5,18 @@ html {background:url("../images/tech.jpg") no-repeat center center fixed;
 -o-background-size:cover;
 background-size: cover;
 color: blue;}
+.row{
+  width: 100%;
+  margin-bottom: 20px;
+}
+.col30{
+  width:30%;
+  float:left;
+}
+.col70{width:68%;
+float: left;
+ }
+.clear{
+  clear:both;
+  margin-bottom: 20px;
+}
